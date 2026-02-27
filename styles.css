@@ -1,0 +1,51 @@
+/* Full page styles below*/ 
+
+/* header styles below*/
+
+header h1{
+    color: blue;    
+}
+
+header h3{
+    margin-top: -20px 
+}
+
+header h4{
+    color: dimgray;
+}
+
+header{
+   font-size:140%; 
+}
+
+/* Nav bar styles below */
+
+nav{
+    border-top: 3px solid purple;
+    padding-bottom: 10px;
+}
+
+nav ul > li {
+    margin: 4px;
+    padding: 4px; 
+}
+
+/* page content styles below*/
+
+.club_info {
+    border-top: 3px solid purple;
+    padding-bottom: 10px;
+}
+
+li{
+    font-family:sans-serif;
+    margin: 5px;
+}
+
+.info_tag{
+    font-weight: bold;
+}
+
+section.club_info h2:first-child {
+    color: blue
+}
